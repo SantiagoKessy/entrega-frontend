@@ -1,5 +1,7 @@
 # Más abajo se encuentra el texto creado por CRA #
 
+## CodeSandbox con proyecto funcionando: https://codesandbox.io/s/github/SantiagoKessy/entrega-frontend ##
+
 **Primer evaluación entregable de Front-end III para C.T.D.**
 
  - Pueden ver el deploy de la aplicación en:
